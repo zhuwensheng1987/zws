@@ -1,2 +1,1 @@
-12stGit
-branch DEV
+reating a new branch is quick AND simple.
